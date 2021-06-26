@@ -1,3 +1,33 @@
+/* the root div syling */
+#root{
+  
+  margin:30px auto;
+  display: flex;
+  flex-direction:column;
+  justify-content: space-between;
+  
+}
+
+/* for echart div element */
+.echarts-for-react{
+ margin:100px auto;
+}
+
+/* for chart-heading */
+.heading{
+  font-size: 26px;
+  margin:20px solid;
+  padding: 10px;
+  text-decoration: underline;
+}
+
+.heading>h1{
+  text-align: center;
+  margin: 30px auto;
+}
+
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +66,5 @@
     transform: rotate(360deg);
   }
 }
+
+
