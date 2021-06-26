@@ -6,7 +6,9 @@
 2. Scatter Chart - showing scatter relation between Color Intensity (Horizontal Axis) and Hue - (Vertical Axis)
 
 ## In this project [Wine dataset of UCI ](https://archive.ics.uci.edu/ml/datasets/wine) is used , which contains 13 attributes and 178 records.
-
+***
+# Mobile Responsive
+The Project is built keeping mobile responsiveness in focus
 ***
 # Project Link
 ## [Click here to see the Chart-React-App](https://qur786.github.io/Chart-React-App/)
