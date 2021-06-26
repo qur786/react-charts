@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chart-React-App/static/css/main.f7f0db6f.chunk.css",
+    "main.js": "/Chart-React-App/static/js/main.498b1ce4.chunk.js",
+    "main.js.map": "/Chart-React-App/static/js/main.498b1ce4.chunk.js.map",
+    "runtime-main.js": "/Chart-React-App/static/js/runtime-main.cc253805.js",
+    "runtime-main.js.map": "/Chart-React-App/static/js/runtime-main.cc253805.js.map",
+    "static/js/2.666c661c.chunk.js": "/Chart-React-App/static/js/2.666c661c.chunk.js",
+    "static/js/2.666c661c.chunk.js.map": "/Chart-React-App/static/js/2.666c661c.chunk.js.map",
+    "static/js/3.a77cfa04.chunk.js": "/Chart-React-App/static/js/3.a77cfa04.chunk.js",
+    "static/js/3.a77cfa04.chunk.js.map": "/Chart-React-App/static/js/3.a77cfa04.chunk.js.map",
+    "index.html": "/Chart-React-App/index.html",
+    "static/css/main.f7f0db6f.chunk.css.map": "/Chart-React-App/static/css/main.f7f0db6f.chunk.css.map",
+    "static/js/2.666c661c.chunk.js.LICENSE.txt": "/Chart-React-App/static/js/2.666c661c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc253805.js",
+    "static/js/2.666c661c.chunk.js",
+    "static/css/main.f7f0db6f.chunk.css",
+    "static/js/main.498b1ce4.chunk.js"
+  ]
+}
