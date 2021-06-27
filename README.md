@@ -1,6 +1,5 @@
 # [Chart-React-App](https://qur786.github.io/Chart-React-App/)
 
-***
 ## This is a mini Project that has been created in React , Typescsript and EChartJS ( A javascript chart library ). This Project contains two charts :
 1. Bar Chart - showing the bar graph for three class of wine against the average malic acid in them .
 2. Scatter Chart - showing scatter relation between Color Intensity (Horizontal Axis) and Hue - (Vertical Axis)
