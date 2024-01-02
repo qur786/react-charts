@@ -1,4 +1,4 @@
-## [react-charts](https://qur786.github.io/Chart-React-App/)
+## [react-charts](https://qur786.github.io/react-charts/)
 
 This mini project is developed using React, TypeScript, and EChartsJS (a JavaScript chart library). It showcases two types of charts:
 
@@ -12,7 +12,7 @@ The project utilizes the [Wine dataset from UCI](https://archive.ics.uci.edu/ml/
 The project prioritizes mobile responsiveness to ensure a seamless user experience across devices.
 
 ## Project Access
-[Access the Chart-React-App here](https://qur786.github.io/Chart-React-App/)
+[Access the Chart-React-App here](https://qur786.github.io/react-charts/)
 
 ## Building the Project
 
