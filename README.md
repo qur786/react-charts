@@ -1,4 +1,4 @@
-## [Charts](https://qur786.github.io/Chart-React-App/)
+## [react-charts](https://qur786.github.io/Chart-React-App/)
 
 This mini project is developed using React, TypeScript, and EChartsJS (a JavaScript chart library). It showcases two types of charts:
 
